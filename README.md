@@ -30,10 +30,30 @@
 
 ##
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinothini0406&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&custom_title=Language%20Stats" height="150" alt="Language Stats" />
-  <br /><br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinothini0406&radius=16&theme=green&area=true&custom_title=Activity%20Graph&hide_border=true&bg_color=black&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff" height="300" alt="Activity Graph" />
-  <br /><br />
-  <img src="https://streak-stats.demolab.com?user=Vinothini0406&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="Streak Stats" />
-</div>
+---
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=FF0000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Java+Problem+Solver;Building+Real+World+Projects;Always+Learning+New+Tech" />
+</p>
+
+
+<h2 align="center">👨‍💻 Coding Mode</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
+</p>
+
+<p align="center">
+  <b>Turning ideas into code</b> • <b>Debugging reality</b> • <b>Building the future</b>
+</p>
+
+
+
+---
